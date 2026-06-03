@@ -24,8 +24,8 @@ $ cat manifesto.txt
 
 $ cat aura.txt
 
-> aura + ego /n
-> aura farmada /n
+> aura + ego
+> aura farmada
 > +1000 aura
 
 $ exit
