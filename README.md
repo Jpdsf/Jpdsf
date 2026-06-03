@@ -22,4 +22,10 @@ $ cat manifesto.txt
 > Código bom é aquele que o próximo desenvolvedor entende sem perguntar.
 > Nome ruim é bug disfarçado.
 
+$ cat aura.txt
+
+> aura + ego
+> aura farmada
+> +1000 aura
+
 $ exit
